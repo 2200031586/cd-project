@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Agricultural Products Rural Entrepreneurship Management System  
 Empowering rural communities through secure and scalable digital commerce.  
 
@@ -41,3 +42,6 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/msivakartheek9348/aprems
    cd aprems
+=======
+# cd-project
+>>>>>>> 005d81630cc219c3035a0d2658403083791c210d
