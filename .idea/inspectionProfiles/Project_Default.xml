@@ -8,5 +8,16 @@
         </list>
       </option>
     </inspection_tool>
+<<<<<<< HEAD
+=======
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="ags.ags.urls.Artist" />
+          <option value="ags.ags.urls.*" />
+        </list>
+      </option>
+    </inspection_tool>
+>>>>>>> 74a3c184f37db4d4fb19d0fd77cafeffe356c199
   </profile>
 </component>
